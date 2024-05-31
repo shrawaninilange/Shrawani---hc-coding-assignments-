@@ -23,4 +23,4 @@ function most(str) {
 
  
 const str = " dcsdds";
-console.log(most(str)); // Output: "l"
+console.log(most(str)); 
